@@ -1,0 +1,13 @@
+.btn {
+	width: 24%;
+	height: 13.5%;
+	text-align: center;
+}
+
+.panel-body {
+	background-color: black;
+}
+
+#first-number, #operator, #second-number, #result {
+	color: white;
+}
